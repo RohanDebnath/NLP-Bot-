@@ -1,0 +1,31 @@
+{
+    "intents":[
+        {"tags":"greetings",
+        "patterns":["Hello","Hey","Hi","Greetings","What's Up?","Kaise ho bro?"],
+        "responses":["Hello Master!","Hey Master!","Hi Sir!","What can I do for u Master?"]
+        },
+        {
+            "tags":"goodbye",
+            "patterns":["bye","tata","alvida"],
+            "responses":["Thank you for having me"]
+        },
+        {
+            "tags":"age",
+            "patterns":["What is your age","What's your age","age","Your age","How old are you","age please"],
+            "responses":["Well I know my master's 16 Nov"]
+        },
+        {"tags":"friend1",
+        "patterns":["Soumik","soumik","kuposhan","weak body","no nutrition","kauwwa leg ","crow boryani?","mutthal","mutthi bazz","oiling","oils faculty"],
+        "responses":["Ya, I know him , he is Soumik Ghosh","Are you talking about boyfriend of Rick?","Soumik mutthal","Chodu Ghosh"]
+        },
+        {
+            "tags":"friend2",
+            "patterns":["Jibon","jibon","giant","ondal","room-mate","roommate","roomie"],
+            "responses":["Jibon Sadhu!!!"]
+        },
+        {
+            "tags":"friend3",
+            "patterns":["tik tok","chapri","chapri tiktoker","lizard","tiktiki "," dab dab","6 packs"],
+            "responses":["Leader of Hell clan","Leba Biswas","Chapri Biswas","Vishal Biswas"]
+        }        
+]}
